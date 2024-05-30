@@ -18,7 +18,9 @@ local args = {
     {"Meteor", "Start"},
     {"Meteor", "End"},
     {"GravityZone", "Start"},
+    {"GravityZone", "End"},
     {"MeteorBarrage", "Start"}
+    {"MeteorBarrage", "End"}
 }
 
 local remoteEvent = game:GetService("ReplicatedStorage").ReplicatedStorage.Abilities.Templates.ToolTemplate:FindFirstChild("RemoteEvent ")
