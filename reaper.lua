@@ -17,7 +17,8 @@ local args = {
     {"Summon", "End"},
     {"Diablo", "Start"},
     {"Diablo", "End"},
-    {"DeathQuake", "Start"}
+    {"DeathQuake", "Start"},
+    {"DeathQuake", "End"}
 }
 
 local remoteEvent = game:GetService("ReplicatedStorage").ReplicatedStorage.Abilities.Templates.ToolTemplate:FindFirstChild("RemoteEvent ")
