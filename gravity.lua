@@ -19,7 +19,7 @@ local args = {
     {"Meteor", "End"},
     {"GravityZone", "Start"},
     {"GravityZone", "End"},
-    {"MeteorBarrage", "Start"}
+    {"MeteorBarrage", "Start"},
     {"MeteorBarrage", "End"}
 }
 
